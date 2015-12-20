@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="guess_the_number">Выберите число от 1 до 100</string>
+    <string name="try_to_guess">Вперёд</string>
+    <string name="enter_number">Пожалуйста, введите число</string>
+    <string name="incorrect_number">Пожалуйста, введите число от 1 до 100</string>
+    <string name="you_win">Победа!</string>
+    <string name="you_lose">Поражение:(</string>
+    <string name="your_number">Ваше число</string>
+    <string name="system_integer">Системное число</string>
+    <string name="rules"> Выберите число от 1 до 100. Систма также выберерет число. Побеждает тот, чье число окажется ближе всего к системному.</string>
+</resources>
