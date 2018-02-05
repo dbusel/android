@@ -1,0 +1,4 @@
+script: 
+- cd 2-4/Lab2
+- gradlew clean build
+- echo "Build is done!"
