@@ -3,5 +3,6 @@ notifications:
 
 script: 
 - cd 2-4/Lab2
-- gradle clean build
+- chmod +x gradlew
+- ./gradlew clean build
 - echo "Build is done!"
